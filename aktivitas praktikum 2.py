@@ -5,6 +5,7 @@
 #bisa menggunakan angka bilangan bulat, contoh : 10, 20, 30
 #bisa menggunakan angka desimal, contoh : 2.5, 3.5(pada desimmal gunakan titik karena kalau koma input tidak valid)
 
+print("selamat datang di aplikasi rata rata")
 def hitung_total_dan_rata_rata():
     nilai = []
     
